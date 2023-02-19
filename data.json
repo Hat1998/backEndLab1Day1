@@ -1,0 +1,24 @@
+[
+   {
+    "name": {
+        "first": "Hatim",
+        "last": "Hussain"
+    },
+    "roomNumber":1,
+    "bookingDateFrom":"19/2/2023",
+    "bookingDateTo":"29/2/20223",
+    "paid":true,
+    "booking":false
+   },
+   {
+    "name": {
+        "first": "Fahad",
+        "last": "Hussain"
+    },
+    "roomNumber":2,
+    "bookingDateFrom":"20/2/2023",
+    "bookingDateTo":"29/2/20223",
+    "paid":false,
+    "booking":false
+   }
+]
