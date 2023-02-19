@@ -5,8 +5,8 @@
     "users": ["Hatim", "Salem", "Rasehd"]
   },
   {
-    "name": "Book1",
+    "name": "Book2",
     "isBooked": true,
-    "users": ["Hatim", "Salem", "Rasehd"]
+    "users": ["Ali", "Hadi", "Rasehd"]
   }
 ]
